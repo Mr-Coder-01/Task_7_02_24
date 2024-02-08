@@ -1,0 +1,71 @@
+.logo{
+    color:orange;
+}
+.logo2{
+    color:navy;
+}
+.bg-container2{
+    background-color: rgb(125, 145, 135);
+}
+img{
+    width: 500px;
+ 
+}
+.slider-head{
+    font-size: 50px;
+    color: navy;
+}
+.col-first{
+    left: 0%;
+}
+.form-div{
+    background-color: red;
+}
+.col-third{
+    margin-top: 100px;
+}
+.form-head{
+    background-color: rgb(50, 50, 151);
+    color: white;
+}
+.form-back{
+   background-color: rgb(80, 247, 200); 
+}
+.short{
+    color: rgb(2, 0, 6);
+}
+.text-c{
+    color: navy;
+}
+.icon{
+    font-size: 50px;
+    margin-left: 110px;
+}
+.main2{
+    margin: 20px;
+
+}
+h4{
+    color: rgb(2, 25, 25);
+margin-left: 30px;}
+.main3{
+    background-color: rgb(100, 100, 100);
+    padding-top: 80px;
+    
+}
+video{
+    width: 400px;
+}
+h3{
+    color: navy;
+}
+h2{
+    color: navy;
+}
+.c-body{
+background-color: navy;
+color: white;
+}
+.c-body1{
+    background-color: orange;
+    }
